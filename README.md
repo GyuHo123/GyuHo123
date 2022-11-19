@@ -6,4 +6,4 @@
   * Spring Framework에 대해 관심있어요.
     * 현재 인프런을 통해서 공부하고 있어요
 
-![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=dark)
+![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=radical)
