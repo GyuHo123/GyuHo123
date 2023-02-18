@@ -8,3 +8,5 @@
     * 현재 인프런을 통해서 공부하고 있어요
 ### Github Rank
 ![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=radical)
+### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyuhokim12)](https://solved.ac/kyuhokim12/)
