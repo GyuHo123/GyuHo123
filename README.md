@@ -9,4 +9,5 @@
 ### Github Rank
 ![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=radical)
 ### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyuhokim12)](https://solved.ac/kyuhokim12/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kyuhokim12})](https://solved.ac/{kyuhokim12})
