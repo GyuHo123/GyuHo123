@@ -7,6 +7,8 @@
 ### 관심분야
   * Spring Framework에 대해 관심있어요.
     * 현재 인프런을 통해서 공부하고 있어요
+  * Cloud Infra에 대해 관심 있어요
+    * 연구실에서 OpenStack에 대해 공부 중이에요
 ### Github Rank
 ![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=radical)
 ### BOJ
