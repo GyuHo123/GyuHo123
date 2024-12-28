@@ -6,10 +6,10 @@
   * 과동아리인 [AM:PM](https://github.com/ampm-jbnu)에서 6회 회장을 맡았어요
     
 ### 관심분야
-  * 네트워크 시스템에 관심이 있어요
-   * 6G 환경에서의 네트워크 시스템을 연구하고 싶어요.
-  * [Openstack](https://www.openstack.org/) 클라우드 시스템에 대해서도 관심이 있어요
-   * 23년 11월 개발자 커뮤니티 밋업에서 Openstack 구축 관련 내용으로 발표했어요
+  * 네트워크 시스템에 관심이 있어요   
+  &ensp; - 6G 환경에서의 네트워크 시스템을 연구하고 싶어요.   
+  * [Openstack](https://www.openstack.org/) 클라우드 시스템에 대해서도 관심이 있어요   
+  &ensp; - 23년 11월 개발자 커뮤니티 밋업에서 Openstack 구축 관련 내용으로 발표했어요
       
 ### Github Rank
 ![GyuHo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho123&show_icons=true&theme=radical)
