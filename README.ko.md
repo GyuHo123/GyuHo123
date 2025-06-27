@@ -1,11 +1,8 @@
 ## 안녕하세요! 김규호입니다.
 
 ### 저는 지금
- * 성균관대학교 [SYSLAB](https://sites.google.com/g.skku.edu/syslab)에서 석박사통합과정을 진행 중이에요.
 
-### 관심분야
-  * 네트워크 시스템에 관심이 있어요   
-  &ensp; - 6G 환경에서의 네트워크 시스템을 연구 중이에요   
+### 관심분야   
   * [Openstack](https://www.openstack.org/) 클라우드 시스템에 대해서도 관심이 있어요   
   &ensp; - 23년 11월 개발자 커뮤니티 밋업에서 Openstack 구축 관련 내용으로 발표했어요
 
