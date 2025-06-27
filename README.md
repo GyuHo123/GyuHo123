@@ -3,12 +3,9 @@
 
 ## 👋 Hello, I'm Gyuho Kim!
 
-I'm currently enrolled in an integrated Master's and Ph.D. program at [SYSLAB, Sungkyunkwan University](https://sites.google.com/g.skku.edu/syslab), where I conduct research on next-generation network systems.
-
 ---
 
 ### 🔬 Interests
-- Network systems for **6G environments**
 - [OpenStack](https://www.openstack.org/) cloud infrastructure  
   ↳ Gave a presentation on OpenStack deployment at a developer community meetup in November 2023
 
